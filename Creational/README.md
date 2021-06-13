@@ -1,27 +1,27 @@
-## Patrones Creacionales
+# Patrones Creacionales
 
 Los patrones creacionales proporcionan varios mecanismos de creación de objetos que incrementan la flexibilidad y la reutilización del código existente.
-# Factory Method
+## Factory Method
 
 Proporciona una interfaz para la creación de objetos en una superclase, mientras permite a las subclases alterar el tipo de objetos que se crearán.
 
-# Abstract Factory
+## Abstract Factory
 
 Permite producir familias de objetos relacionados sin especificar sus clases concretas.
 
-# Builder
+## Builder
 
 Permite construir objetos complejos paso a paso. Este patrón nos permite producir distintos tipos y representaciones de un objeto empleando el mismo código de construcción.  
 
-# Prototype
+## Prototype
 
 Permite copiar objetos existentes sin que el código dependa de sus clases.
 
-# Singleton
+## Singleton
 
 Permite asegurarnos de que una clase tenga una única instancia, a la vez que proporciona un punto de acceso global a dicha instancia.
 
-# Fuente
+## Fuente
 
 <a href="https://refactoring.guru/es/design-patterns/creational-patterns" target="_blank">
     Refactoring - Guru -
